@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the cane-chair makers humbly presented to the consideration of the honourable the Commons in Parliament assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01892</idno>
+            <idno type="STC">Wing C1024</idno>
+            <idno type="STC">ESTC R170991</idno>
+            <idno type="EEBO-CITATION">52211938</idno>
+            <idno type="OCLC">ocm 52211938</idno>
+            <idno type="VID">175506</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175506)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2739:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the cane-chair makers humbly presented to the consideration of the honourable the Commons in Parliament assembled.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rattan furniture industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175506:1" rendition="simple:additions"/>
+            <head>The CASE of the Cane-Chair Makers humbly Preſented to the Conſideration of the Honourable the Com<g ref="char:EOLhyphen"/>mons in Parliament Aſſembled;</head>
+            <opener>Shewing,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat before Cane-Chairs, Stools, Squobs, and Couches were made in <hi>England,</hi> there was not (according to the largeſt Information that can be gathered) above One hundred and eighty Perſons Employed in Making and Turning of Chair-Frames to be covered with Turky-work, Serge, Camblets, <hi>Kidderminſter,</hi> and other Stuffs of the Woollen Manufacture; there being but little Work in the Making, leſs Work in the Turning, and generally no Carving at all in thoſe Frames.</p>
+            <p>That about the Year 1664. Cane-Chairs, <hi>&amp;c.</hi> came into uſe in <hi>England,</hi> which gave ſo great Satisfaction to all the No<g ref="char:EOLhyphen"/>bility, Gentry, and Commonalty of this Kingdom, (for their Durableneſs, Lightneſs, and Cleanneſs from Duſt, Worms and Moths, which inſeparably attend Turky-work, Serge, and other Stuff-Chairs and Couches, to the ſpoiling of them and all Furniture near them) that they came to be much uſed in <hi>England,</hi> and ſent to all parts of the World; which occa<g ref="char:EOLhyphen"/>ſioned the Chair-Frame Makers and Turners to take many Apprentices; and Cane-Chairs, <hi>&amp;c.</hi> coming in time to be Car<g ref="char:EOLhyphen"/>ved, many Carvers took Apprentices, and brought them up to Carving of Cane-Chairs, Stools, Couches, and Squobs only: And there were many Apprentices bound only to learn to Split the Canes, and Cane thoſe Chairs, <hi>&amp;c.</hi>
+            </p>
+            <p>And as Trade for Cane-Chairs, <hi>&amp;c.</hi> increaſed, the People bread up in the ſeveral Trades depending upon them alſo in<g ref="char:EOLhyphen"/>creaſed, their number being (upon a true Survey) found to be at this day many Thouſands of People, many of whom pay very great Rents, and have long Leaſes of Houſes, taken purpoſely to Make and Sell Cane-Chairs, Stools, Squobs, Couches, Tables, and other Caned Work.</p>
+            <p>We find (by a true and exact Account) that there is not Six thouſand Dozens of Cane-Chairs, Stools, Couches, and Squobs, made in <hi>England</hi> in any one Year, whereof above Two thouſand Dozens are yearly Tranſported into almoſt all the Hot Parts of the World, where the Heat renders Turky-work, Serge, <hi>Kidderminſter,</hi> and other Stuffed Chairs and Couches uſe<g ref="char:EOLhyphen"/>leſs. Alſo a very great part of Cane Chairs and Couches, that are uſed in <hi>England,</hi> are covered with Cuſhions and Quilts, which conſume much Wooll and Silk: Whereby it appears, that the Making and Uſing is not one eighth part of that De<g ref="char:EOLhyphen"/>triment to the Woollen Manufacture, as it is Aſſerted to be; there being not above Two thouſand Dozens of Cane-Chairs made yearly in <hi>England,</hi> but what are either Tranſported, or covered with Silk or Woollen Manufacture.</p>
+            <p>It hath been Aſſerted, That when Turky-work, Serge, Camblet, <hi>Kidderminſter,</hi> and all other Stuffed Chairs, were moſt in uſe, there were ſpent yearly in Sixteen thouſand Dozens of thoſe Chairs, about Two thouſand Packs of Wool; which if that be true, (though it may well be queſtioned) Two thouſand Dozens of Cane-Chairs, Stools, Squobs, and Couches, which is the moſt that is yearly uſed in <hi>England</hi> without Cuſhions or Quilts, cannot hinder more than Two hundred and Fifty Packs of Wool from being yearly wrought into Chairs throughout all <hi>England;</hi> which Detriment is very inconſiderable, to the Ru<g ref="char:EOLhyphen"/>ine and Deſtruction which the Bill for Preventing the Making of Cane-Chairs in <hi>England,</hi> if it ſhould Paſs into a Law, will unavoidably bring upon many Thouſands of Their Majeſties Subjects.</p>
+            <p>And whereas about Thirty Years ago there was One Dozen of Chairs covered with Velvet, Damask, Mohair, and other Silks, now there are Four Dozens covered as aforeſaid; which alſo occaſions leſs Wool to be worked into Chairs.</p>
+            <p>The Prohibiting of the Making and Vending of Cane-Chairs, Stools, and Couches, will certainly bring theſe Miſeries upon Us, and Diſadvantage to the Nation in general:</p>
+            <p>
+               <hi>Firſt,</hi> Cane-Chairs, Stools, Squobs and Couches, will be made in our Neighbouring Nations; whereby our Trades and Em<g ref="char:EOLhyphen"/>ployments, as alſo that part of our <hi>Engliſh</hi> Merchandize, will be taken from the Free-born Subjects of <hi>England,</hi> and given to other Nations, by whom moſt parts of the World will be furniſhed with Cane-Chairs, Stools, Squobs, and Couches; which will prevent the Tranſportation of Turky-work and Stuffed Chairs, and we may be furniſhed with Cane-Chairs, <hi>&amp;c.</hi> from other Nations.</p>
+            <p>
+               <hi>Secondly,</hi> There are ſeveral Thouſand Perſons, many whereof are Freemen of this Honourable City of <hi>London,</hi> whoſe Live<g ref="char:EOLhyphen"/>lihood now depends upon Sawing, Making, Turning, Carving, and Caning of Chairs, Stools, Squobs, Couches, Tables, <hi>&amp;c.</hi> which (if the ſame be Prohibited to be made in <hi>England</hi>) will certainly be deſtroyed; it being a certain Truth, That there will not be Employment for above One hundred and eighty Perſons, One hundred and fifty Men being ſufficient to make above Sixteen thouſand Dozens of Frames for Turky-work and other Stuffed Chairs in one Year, and fewer than Thirty Men can ſupply thoſe Hundred and fifty Men with the Turned Work that is uſually beſtowed upon thoſe Turky-work Chair-Frames; and there is ſeldom or never any Carved Work beſtowed upon them: So that Thouſands of People will (by that Bill, if it ſhould Paſs into a Law) be forbid to Work at thoſe Trades they have ſerved an Apprenticeſhip of Seven Years unto. And by a Statute of the Fifth of <hi>Eliz.</hi> we are forbid to follow or work at any Handycraft Trade, unto which we have not ſerved an Apprenticeſhip of Seven Years, under the Penalty of Forty Shillings for every Month; which muſt unavoidably prove the utter Ruine and Deſtruction of ſo many Free-born Subjects of <hi>England,</hi> all our Stocks being ſcarce ſufficient to purchaſe our Diſcharges from thoſe long Leaſes many of us have taken of Houſes, for which we pay very great Rent.</p>
+            <p>Wherefore we moſt humbly Pray, That according to your great Wiſdom and Charity, you will be pleaſed to take our Caſe into your Serious Conſideration, and not to take from us our Trades and Employments, whereunto we have been brought up, and by which we honeſtly Maintain our Selves and Families.</p>
+            <pb facs="tcp:175506:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
